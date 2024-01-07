@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Inspiration</string>
+    <string name="inspiration1">“First, solve the problem. Then, write the code.” - John Johnson</string>
+    <string name="inspiration2">“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” - Martin Fowler</string>
+    <string name="inspiration3">“The best way to predict the future is to invent it.” - Alan Kay</string>
+    <string name="inspiration4">“Don’t worry if it doesn’t work right. If everything did, you’d be out of a job.” - Mosher’s Law of Software Engineering</string>
+    <string name="inspiration5">“Programming isn’t about what you know; it’s about what you can figure out.” - Chris Pine</string>
+    <string name="inspiration6">“The biggest risk is not taking any risk. In a world that’s changing really quickly, the only strategy that is guaranteed to fail is not taking risks.” - Mark Zuckerberg</string>
+    <string name="inspiration7">“The function of good software is to make the complex appear to be simple.” - Grady Booch</string>
+    <string name="inspiration8">“The most important property of a program is whether it accomplishes the intention of its user.” - C.A.R. Hoare</string>
+    <string name="inspiration9">“The best error message is the one that never shows up.” - Thomas Fuchs</string>
+    <string name="inspiration10">“The best way to learn to code is to code. Learn Android development, not by watching others code, but by coding yourself. Make mistakes, correct them, learn, repeat.” - Anonymous</string>
+</resources>
