@@ -2,8 +2,8 @@
 
 | App   | Description                | Complexity   |
 |---------- |----------------------------|--------------|
-|1.Artwork app|   An Android app that can display artwork or family photos|  Low |
-|2.Dice Roller app|  An interactive Android app called Dice Roller that lets users roll a dice and shows them the result of the roll. |Low|
+|1.[Artwork](1.Artwork/)|   An Android app that can display artwork or family photos|  Low |
+|2.[Inspiration](2.Inspiration/)|  The Inspiration app contains a scrollable list of 10 cards. |Low|
 |3.       |                            |   |
 |4.       |                            |   |
 |5.       |                            |   |
