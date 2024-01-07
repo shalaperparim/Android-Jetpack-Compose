@@ -1,9 +1,12 @@
+![Screenshots of Apps](Apps.png)
+
+
 # Android-Jetpack-Compose
 
 | App   | Description                | Complexity   |
 |---------- |----------------------------|--------------|
-|1.[Artwork](1.Artwork/)|   An Android app that can display artwork or family photos|  Low |
-|2.[Inspiration](2.Inspiration/)|  The Inspiration app contains a scrollable list of 10 cards. |Low|
+|[1.Artwork](1.Artwork/)|   An Android app that can display artwork or family photos|  Low |
+|[2.Inspiration](2.Inspiration/)|  The Inspiration app contains a scrollable list of 10 cards. |Low|
 |3.       |                            |   |
 |4.       |                            |   |
 |5.       |                            |   |

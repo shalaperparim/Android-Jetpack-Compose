@@ -1,3 +1,4 @@
+![Screenshot of Artwork App](Screenshot_of_ArtworkApp.png)
 
 # Artwork App
 

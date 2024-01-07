@@ -1,3 +1,5 @@
+![Screenshot of Inspiration App](Screenshot_of_InspirationApp.png)
+
 
 ## Introduction
 
