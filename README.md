@@ -1,5 +1,22 @@
 # Android-Jetpack-Compose
 
+| App   | Description                | Complexity   |
+|---------- |----------------------------|--------------|
+|1.Artwork app|   An Android app that can display artwork or family photos|  Low |
+|2.Dice Roller app|  An interactive Android app called Dice Roller that lets users roll a dice and shows them the result of the roll. |Low|
+|3.       |                            |   |
+|4.       |                            |   |
+|5.       |                            |   |
+|6.       |                            |   |
+|7.       |                            |   |
+
+
+
+
+
+
+## Coming soon
+
 | Project   | Description                | 
 |---------- |----------------------------|
 |1.Declarative UI and Compose Principles|Implementing Android views in Jetpack Compose<br>Implementing a scrollable list in Jetpack Compose<br>Implementing first tab layout with a view pager using Jetpack Compose<br>Implementing animations in Compose<br>Implementing accessibility in Jetpack Compose<br>Implementing declarative graphics using Jetpack Compose<br> |
@@ -11,10 +28,5 @@
 |7.Paging|Implementing the Jetpack Paging library<br>Managing present and loading states<br>Implementing your custom pagination in Jetpack Compose<br>Loading and displaying paged data<br>Understanding how to transform data streams<br>Migrating to Paging 3 and understanding the benefits<br>Writing tests for your Paging Source<br>|
 |8.Building for Large Screens|Building adaptive layouts in Modern Android Development<br>Building adaptive layouts using ConstraintLayouts<br>Handling large-screen configuration changes and continuity<br>Understanding activity embedding<br>Material Theming in Compose<br>Testing your applications on a foldable device<br>|
 
-
-| Project   | Description                | Complexity   |
-|---------- |----------------------------|--------------|
-|1.Compose-Chat|                            |Low|
-|2.Compose-Surve|                            |Low|
 
 
