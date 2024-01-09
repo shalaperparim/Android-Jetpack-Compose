@@ -7,7 +7,7 @@
 |---------- |----------------------------|--------------|
 |[1.Artwork](1.Artwork/)|   An Android app that can display artwork or family photos|  Low |
 |[2.Inspiration](2.Inspiration/)|  The Inspiration app contains a scrollable list of 10 cards. |Low|
-|3.       |                            |   |
+|[3.Courses](3.Courses/)|The Courses app displays a list of course topics.|Low|
 |4.       |                            |   |
 |5.       |                            |   |
 |6.       |                            |   |
